@@ -1,0 +1,33 @@
+{
+    "name": "Holders Horses #1588",
+    "symbol": "🐴",
+    "uri": "https://raw.githubusercontent.com/YisusSM/metadata/main/1588.json",
+    "seller_fee_basis_points": 9000,
+    "creators": [
+        {
+            "address": "3GbkKgdDUQUYXacJyrvEAYAr4xWBABnMzTVf2VUwsXu6",
+            "verified": 1,
+            "share": 0
+        },
+        {
+            "address": "AtSCJzH9b6tYyVth3Jy7NBDkreRYPCehKorJL783RteM",
+            "verified": 0,
+            "share": 10
+        },
+        {
+            "address": "EEo3funrmAc3727a3MzEzoqYfcy9gwcKpPeunVXbzNii",
+            "verified": 0,
+            "share": 10
+        },
+        {
+            "address": "YHRrbExaVxcpEk4wBFt3aozh31VLmdmKRKUvC8h7p1J",
+            "verified": 0,
+            "share": 10
+        },
+        {
+            "address": "7W5iZYcYV5m7hpT9EsLn3w1p4jGDkkU6Kdeqz1qF13Qc",
+            "verified": 0,
+            "share": 70
+        }
+    ]
+}
